@@ -1,3 +1,4 @@
+感谢原作者：https://github.com/lmc0217/lua
 token有效验证
 ---
 # 前言
